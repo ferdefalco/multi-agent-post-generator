@@ -1,0 +1,10 @@
+fastapi
+langgraph
+langchain 
+langchain-community 
+langchain-ollama 
+duckduckgo-search
+jupyterlab
+ipykernel
+jupyter
+ddgs
